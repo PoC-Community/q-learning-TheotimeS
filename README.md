@@ -1,3 +1,7 @@
+## Infos
+
+Salut, j'étais cloué au lit hier c'est pourquoi je n'ai pas participé au Workshop et que mes commits ne datent "que" d'aujourd'hui.
+
 ## Q-Learning: Introduction to Reinforcement Learning 📱
 
 Discover Reinforcement Learning, an exciting field within Artificial Intelligence.
